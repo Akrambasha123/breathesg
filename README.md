@@ -74,19 +74,16 @@ Simulates expense API integrations (like Concur/Navan), sorting items into Scope
 ### 3.1 Tenancy Sandbox Gateway
 Allows simulating logins across different client company tenancies and security roles (`analyst`, `manager`, `auditor`).
 
-*(Place your login gateway screenshot here)*
 ![Login Gateway Screen](/screenshots/login_screen.png)
 
 ### 3.2 Ingestion Hub
 Features file upload fields, dynamic pipeline logs, and built-in mock datasets that populate German SAP decimal mismatches, billing gaps, and travel fallbacks in one click.
 
-*(Place your Ingestion hub screenshot here)*
 ![Ingestion Hub](/screenshots/upload_screen.png)
 
 ### 3.3 Analyst Review Workspace
 Exposes the core auditor grid where analysts filter anomalies, review side-by-side raw/normalized structures, make manual override corrections (re-triggering validations), add reasoning sign-offs, and lock files.
 
-*(Place your Review workspace screenshot here)*
 ![Auditor Dashboard](/screenshots/review_screen.png)
 
 ---
